@@ -1,6 +1,6 @@
 # Ames_House_Price_Prediction_Using_Model_Pipelines
 
-The goal of this project was to predict the price of a home in Ames, Iowa, based on certain characteristics of the building. This was carried out using basic algorithms such as Linear Regression and Random Forest. This problem is a regression problem.
+The goal of this project was to predict the price of a home in Ames, Iowa, based on certain characteristics of the building and with the use of model pipelines.
 
 # About the data
 The dataset, downloaded from [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques), contained information on 2919 houses in Ames. This was divided into train set [1460 rows, 81 columns] and test set [1459 rows, 80 columns], consisting of 36 numeric variables, 44 categorical variables and a numeric label (present in the train set). The features centred around location of the building, characteristics of the building itself, year of construction or renovation.
