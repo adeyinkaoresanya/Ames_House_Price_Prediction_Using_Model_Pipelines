@@ -16,13 +16,13 @@ Due to the fact that the dataset contained a lot of missing values and categoric
 
 XGBRegressor took a longer time to train than GradientBoostingRegressor due to the number of estimators, however, the inference time is 31% faster than GradientBoostingRegressor with a better RMSE score. 
 
-![alt text](https://github.com/adeyinkaoresanya/Ames-House_Price-Regression-Model/blob/main/images/Models_Table.PNG "models table")
+![alt text](https://github.com/adeyinkaoresanya/Ames_House_Price_Prediction_Using_Model_Pipelines/blob/main/Images/Pipe_models_table.PNG "models table")
 
 
 On the contrary, MLPRegressor model performed poorly than the other two, with a RMSE score of 1.780.
 
 
-![alt text](https://github.com/adeyinkaoresanya/Ames-House_Price-Regression-Model/blob/main/images/Models_Table.PNG "models table")
+![alt text](https://github.com/adeyinkaoresanya/Ames_House_Price_Prediction_Using_Model_Pipelines/blob/main/Images/pipe_MLP_table.PNG "models table2")
 
 ## Conclusion
 The model built with XGBoost met the requirement of the project and a leaderboard score of 0.128 was achieved.
